@@ -1,0 +1,68 @@
+/*CSS style sheet for why this matters.html*/
+
+html{
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    padding-left: 5%;
+}
+
+h1{
+    font-size: 1cm;
+    color:#EAFDFC;
+    background-color:#82AAE3;
+    text-align: center;
+    }
+
+h2{
+    background-color:#EAFDFC;
+    text-align: left;
+    font-size:0.7cm;
+    font-family: Arial;
+    color:#00008B
+}
+
+p{
+    color:#82AAE3;
+    font-family: Arial;
+    }
+
+.why-celebrate{
+    font-family: Arial;
+    text-align: justify;
+    color:#82AAE3;
+  }
+
+.why-it-matters{
+    font-family: Arial;
+    text-align: justify;
+    color:#82AAE3;
+  }
+
+.my-quote{
+    font-family: Arial;
+    text-align: justify;
+    color:#82AAE3;
+    border-radius: 1px;
+    border-style: dashed;
+    border-color: #82AAE3
+  }
+
+.my-buttons{
+    font-family: Arial;
+    text-align: justify;
+    color:#82AAE3;
+  }
+
+.job-generator{
+    font-family: Arial;
+    text-align: justify;
+    color:#82AAE3;
+} 
+
+.links{
+    font-family: Arial;
+    text-align: center;
+    color:#82AAE3;
+
+  }
+
