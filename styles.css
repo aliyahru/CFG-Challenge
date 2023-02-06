@@ -1,0 +1,134 @@
+/*CSS style sheet for why this matters.html*/
+
+html{
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1{
+    font-size: 1cm;
+    color: #ffb5b5;
+    background-color:#407088;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    }
+
+h2{
+    background-color:#ffb5b5;
+    text-align: center;
+    font-size:0.7cm;
+    font-family: Arial;
+    color: #407088;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 10%;
+    padding-right: 10%
+}
+
+p{
+    color:#132743;
+    font-family: Arial;
+    font-size: 0.5cm;
+    padding-left: 12%;
+    padding-right: 12%;
+    }
+
+ul{
+  padding-left: 12%;  
+  color:#132743;
+  font-family: Arial;
+  font-size: 0.5cm;
+  padding-right: 12%
+    }
+  
+.my-video{
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+  padding-right: 10%;
+  padding-bottom:10px;
+  }
+
+
+.column-quote {
+  width: 80%;
+  height: 180px;
+  padding-top: 10px;
+  padding-left:70px;
+  padding-right: 70px;
+  margin:auto;
+  border: 20px solid #407088;
+}
+
+.my-quote {
+  font-size:100px;
+  line-height: 1;
+  text-align: center;
+}
+
+.my_buttons{
+  text-align: center;
+}
+
+.button{
+  background-color: #407088;
+  border-color: #132743;
+  padding: 32px 16px;
+  font-size: 24px;
+  color: #ffcbcb;
+  text-align: center;
+  display: inline-block;
+  border-radius: 12px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+
+.button:hover {
+  background-color: #ffcbcb;
+  color: #132743;
+}
+
+/* vertical menu styling (other resources) - colors need updating as per agreed styling */
+
+.vertical-menu {
+  text-align: center;
+  color: #132743;
+  text-align: center;
+  width: 200px;
+}
+
+.vertical-menu a {
+  text-align: center;
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+
+.vertical-menu a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+ /* hover over link - colour needs updating as per agreed styling */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link - - colour needs updating as per agreed styling */
+  a:active {
+    color: blue;
+  }
