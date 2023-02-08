@@ -39,6 +39,7 @@ h1{
     .topnav a.active {
       background-color: cornflowerblue;
       color: white;
+}
 
 h2{
     background-color:#ffb5b5;
