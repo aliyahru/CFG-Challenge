@@ -350,13 +350,15 @@ function handleEndGame() {
         remark = "Not bad, but how about taking the quiz again?"
         remarkColor = "red"
     }
-    else if (playerScore >= 5 && playerScore < 9) {
+
+   else if (playerScore >= 5 && playerScore <= 9) {
         remark = "Good effort, let's see if you can do better..."
         remarkColor = "orange"
     }
 
-    else if (playerScore >= 9) {
-    remark = "Well Done! Almost top marks, can we tempt you to try again? "
+
+    else if (playerScore >= 10) {
+    remark = "Well Done! Top marks! "
     remarkColor = "green"
     }
 
