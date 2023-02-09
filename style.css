@@ -190,7 +190,10 @@
 width: 50%;
   border-bottom: 5px solid rgb(214, 137, 137);
   
+}
 
+.row {
+  margin: 8px -16px;
 }
 
 .main_content{
