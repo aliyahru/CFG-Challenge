@@ -48,13 +48,10 @@ h1 {
   padding: 50px;
 }
 
-.longDivider {
-  flex-grow: 1;
-  border-top: 15px double #f4abab;
-  border-radius: 20px;
-  margin: 0px;
-  margin-left: 10%;
-  margin-right: 10%;
+.section_heading hr{
+  border: none;
+width: 50%;
+  border-bottom: 5px solid rgb(214, 137, 137);
 }
   
 /* Responsive layout - makes a two column-layout instead of four columns */
