@@ -215,3 +215,12 @@ figcaption a:hover{
   color: #dbafaf;
   font-weight: bold;
 }
+
+.links a{
+    text-decoration: none;
+    color:#ffcbcb;
+}
+.links a:hover{
+  color: #dbafaf;
+  font-weight: bold;
+}
