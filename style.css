@@ -188,14 +188,12 @@
 .section_heading hr{
   border: none;
 width: 50%;
-  border-bottom: 5px solid rgb(214, 137, 137);
-  
+  border-bottom: 5px solid rgb(214, 137, 137);  
 }
 
-.grid-container {
-  display: grid;
-  grid-template-rows: 100px 300px;
-}
+.w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
+.w3-container,.w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}
+.w3
 
 .main_content{
 font-size: 25px;
