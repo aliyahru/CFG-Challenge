@@ -92,7 +92,7 @@ h2 {
 }
 
 .pill-nav a.active {
-  background-color: dodgerblue;
+  background-color: rgb(255, 181, 181);
   color: white;
 }
 
