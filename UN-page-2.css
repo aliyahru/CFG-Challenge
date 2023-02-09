@@ -48,6 +48,14 @@ h1 {
   padding: 50px;
 }
 
+.longDivider {
+  flex-grow: 1;
+  border-top: 15px double #f4abab;
+  border-radius: 20px;
+  margin: 0px;
+  margin-left: 10%;
+  margin-right: 10%;
+  
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 900px) {
   .column {
