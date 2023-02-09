@@ -1,7 +1,7 @@
 window.onscroll = function() {myFunction()};
 
 function myFunction() {
-  if (document.documentElement.scrollTop > 450) {
+  if (document.documentElement.scrollTop > 425) {
     document.getElementById("stat1").className = "slide1";
   }
   if (document.documentElement.scrollTop > 585) {
