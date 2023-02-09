@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "When date is International Day of Women & Girls in Science ?",
+        question: "Which date is International Day of Women & Girls in Science?",
         optionA: " 12th Janusry",
         optionB: "15th May",
         optionC: "5th June",
@@ -27,9 +27,9 @@ const questions = [
     },
 
     {
-        question: "Mary Manard Daly conducted groundbreaking studies in...?",
+        question: "Marie Maynard Daly conducted groundbreaking studies in...?",
         optionA: "Space Flights",
-        optionB: "Heamatology",
+        optionB: "Haematology",
         optionC: "Cholesterol, sugars and proteins",
         optionD: "Mathematics",
         correctOption: "optionC"
@@ -45,7 +45,7 @@ const questions = [
     },
 
     {
-        question: "Katherine G. Johnson was an emplyee at ?",
+        question: "Katherine G. Johnson was an employee at ?",
         optionA: "NASA",
         optionB: "Microsoft",
         optionC: "Deloitte",
@@ -54,7 +54,7 @@ const questions = [
     },
 
     {
-        question: "What university did Marie Curie enroll into ?",
+        question: "What university did Marie Curie enroll into?",
         optionA: "The University of Colarado",
         optionB: "The University of Antarctica",
         optionC: "The Floating University, Poland",
@@ -63,7 +63,7 @@ const questions = [
     },
 
     {
-        question: "What percentage of girls aged 7-10 think there aren't enough women in STEM ?",
+        question: "What percentage of girls aged 7-10 think there aren't enough women in STEM?",
         optionA: "18%",
         optionB: "50%",
         optionC: "23%",
@@ -81,7 +81,7 @@ const questions = [
     },
 
     {
-        question: "Who was the 1st female Nobel lauriate",
+        question: "Who was the 1st female Nobel laureate?",
         optionA: "Beyonce",
         optionB: "Madonna",
         optionC: "Ada Lovelace",
@@ -90,7 +90,7 @@ const questions = [
     },
 
     {
-        question: "What percentage of women are in cutting edge fields such A.I ?",
+        question: "What percentage of women are in cutting edge fields such A.I?",
         optionA: "19%",
         optionB: "40%",
         optionC: "22%",
@@ -99,9 +99,9 @@ const questions = [
     },
 
     {
-        question: "Who was the 1st (and only to date) woman to win Nobel prizes in two different sciences ?",
+        question: "Who was the 1st (and only to date) woman to win Nobel prizes in two different sciences?",
         optionA: "Marie Curie",
-        optionB: "Kathering G. Johnson",
+        optionB: "Katherine G. Johnson",
         optionC: "Augusta Ada King",
         optionD: "Rebecca Cole",
         correctOption: "optionA"
@@ -109,7 +109,7 @@ const questions = [
 
 
     {
-        question: "Who is considered as the 'Mother of Computing' ?",
+        question: "Who is considered as the 'Mother of Computing'?",
         optionA: "Melinda French Gates ",
         optionB: "Ada Lovelace",
         optionC: "Mariah Carey",
@@ -118,7 +118,7 @@ const questions = [
     },
 
     {
-        question: "In 1987 who applied to be an astronaut at NASA and was 1 of 15 accepted out of 2,000 applicants ?",
+        question: "In 1987 who applied to be an astronaut at NASA and was 1 of 15 accepted out of 2,000 applicants?",
         optionA: "Mary Elliot Hill",
         optionB: "Ada Lovelace",
         optionC: "Mary Seacole",
@@ -127,7 +127,7 @@ const questions = [
     },
 
     {
-        question: "Which two female mathematicians were colleages of Katherine G. Johnson?",
+        question: "Which two female mathematicians were colleagues of Katherine G. Johnson?",
         optionA: "Dortohy Vaughan & Mary Jackson",
         optionB: "Mary Jackson & Mae C. Johnson",
         optionC: "Dorothy Vaughan & Rebecca Cole",
@@ -136,7 +136,7 @@ const questions = [
     },
 
     {
-        question: "On 12 September,1992, who was the first African American woman to travel in space aboard the Endeavor ?",
+        question: "On 12 September,1992, who was the first African American woman to travel in space aboard the Endeavour?",
         optionA: "Katherine G. Johnson",
         optionB: "Rebecca Cole",
         optionC: "Mae C. Jemison",
@@ -145,7 +145,7 @@ const questions = [
     },
 
     {
-        question: "Who as the first African American woman to obtain a PhD in chemistry in the United States?",
+        question: "Who was the first African American woman to obtain a PhD in chemistry in the United States?",
         optionA: "Mary Elliot Hill ",
         optionB: "Augusta Ada King",
         optionC: "Michelle Williams",
@@ -163,7 +163,7 @@ const questions = [
     },
 
     {
-        question: "What is one reason we should support, encourage and celebrate women and girls in science and technology ?",
+        question: "What is one reason we should support, encourage and celebrate women and girls in science and technology?",
         optionA: "So that women can surpass men and boys in STEM studies and careers",
         optionB: "So that women and men can compete in who is the better gender in STEM careers",
         optionC: "There is no reason",
@@ -172,7 +172,7 @@ const questions = [
     },
 
     {
-        question: "Who actively promoted the use of radium to alleviate suffering and during World War I ?",
+        question: "Who actively promoted the use of radium to alleviate suffering during World War I?",
         optionA: "Marie Curie",
         optionB: "Ada Lovelace",
         optionC: "Katherine G. Johnson",
@@ -190,16 +190,16 @@ const questions = [
     },
 
     {
-        question: "Who from a young age developed interests in anthropology, archaeology, evolution, and astronomy ?",
+        question: "Who from a young age developed interests in anthropology, archaeology, evolution, and astronomy?",
         optionA: "Jenifer Lopez",
         optionB: "Mae C. Jemison",
-        optionC: "EMary Elliot Hill",
+        optionC: "Mary Elliot Hill",
         optionD: "None of these women",
         correctOption: "optionB"
     },
 
     {
-        question: "Who while in Paris, obtained Licenciateships in Physics and the Mathematical Sciences?",
+        question: "Who, while in Paris, obtained Licenciateships in Physics and the Mathematical Sciences?",
         optionA: "Kelly Rowland",
         optionB: "Marie Curie",
         optionC: "Dorothy Vaughan",
@@ -212,16 +212,16 @@ const questions = [
         optionA: "The World Health Organisation",
         optionB: "The Government",
         optionC: "The United Nations",
-        optionD: "The president of the Unites States",
+        optionD: "The President of the United States",
         correctOption: "optionC"
     },
 
     {
-        question: "The underrepresentation of women’s contribution to research and development means...?",
+        question: "Underrepresentation of women’s contribution to research and development means...?",
         optionA: "Their needs and perspectives are unlikely to be overlooked in the design of products that impact our daily lives",
         optionB: "Women will always be picked first for jobs in STEM",
         optionC: "Their needs and perspectives are likely to be overlooked in the design of products that impact our daily lives",
-        optionD: "Means nothing",
+        optionD: "Nothing",
         correctOption: "optionC"
     }
 
@@ -351,7 +351,7 @@ function handleEndGame() {
         remarkColor = "red"
     }
     else if (playerScore >= 4 && playerScore < 7) {
-        remark = "Good effort, Let's see if you can do better."
+        remark = "Good effort, let's see if you can do better."
         remarkColor = "orange"
     }
 
