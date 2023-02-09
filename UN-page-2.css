@@ -48,13 +48,18 @@ h1 {
   padding: 50px;
 }
 
-.section_heading hr{
+.section_heading hr {
   border: none;
 width: 50%;
   border-bottom: 5px solid rgb(214, 137, 137);
 }
 
-.section_heading{
+h2 {
+  font-size: 35px;
+  color: rgb(255, 181, 181);
+}
+
+.section_heading {
   text-align: center;
   color: #132743;
 }
