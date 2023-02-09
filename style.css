@@ -192,8 +192,9 @@ width: 50%;
   
 }
 
-.row {
-  margin: 8px -16px;
+.grid-container {
+  display: grid;
+  grid-template-rows: 100px 300px;
 }
 
 .main_content{
