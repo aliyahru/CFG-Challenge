@@ -346,23 +346,20 @@ function handleEndGame() {
     let remarkColor = null
 
     // stats
-    if (playerScore <= 3) {
-        remark = "Dont worry, you can take the quiz again!"
+    if (playerScore <= 4) {
+        remark = "Not bad, but how about taking the quiz again?"
         remarkColor = "red"
     }
-    else if (playerScore >= 4 && playerScore < 7) {
-        remark = "Good effort, let's see if you can do better."
+    else if (playerScore >= 5 && playerScore < 9) {
+        remark = "Good effort, let's see if you can do better..."
         remarkColor = "orange"
     }
 
-    else if (playerScore >= 7 && playerScore <9) {
+    else if (playerScore >= 9) {
     remark = "Well Done! Almost top marks, can we tempt you to try again? "
     remarkColor = "green"
     }
-    else if (playerScore = 10) {
-        remark = "Excellent work!"
-        remarkColor = "green"
-    }
+
     const playerGrade = (playerScore / 10) * 100
 
     //scoreboard
