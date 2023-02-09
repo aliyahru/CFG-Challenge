@@ -53,6 +53,11 @@ h1 {
 width: 50%;
   border-bottom: 5px solid rgb(214, 137, 137);
 }
+
+.section_heading{
+  text-align: center;
+  color: #132743;
+}
   
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 900px) {
