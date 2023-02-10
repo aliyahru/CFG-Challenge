@@ -45,7 +45,7 @@ const questions = [
     },
 
     {
-        question: "Katherine G. Johnson was an employee at ?",
+        question: "Katherine G. Johnson was an employee where?",
         optionA: "NASA",
         optionB: "Microsoft",
         optionC: "Deloitte",
@@ -58,7 +58,7 @@ const questions = [
         optionA: "The University of Colarado",
         optionB: "The University of Antarctica",
         optionC: "The Floating University, Poland",
-        optionD: "The Univerdity of Science, Poland",
+        optionD: "The University of Science, Poland",
         correctOption: "optionC"
     },
 
@@ -81,7 +81,7 @@ const questions = [
     },
 
     {
-        question: "Who was the 1st female Nobel laureate?",
+        question: "Who was the first female Nobel laureate?",
         optionA: "Beyonce",
         optionB: "Madonna",
         optionC: "Ada Lovelace",
@@ -90,7 +90,7 @@ const questions = [
     },
 
     {
-        question: "What percentage of women are in cutting edge fields such A.I?",
+        question: "What percentage of women are in cutting edge fields such artificial intelligence (A.I)?",
         optionA: "19%",
         optionB: "40%",
         optionC: "22%",
@@ -99,7 +99,7 @@ const questions = [
     },
 
     {
-        question: "Who was the 1st (and only to date) woman to win Nobel prizes in two different sciences?",
+        question: "Who was the first (and only to date) woman to win Nobel prizes in two different sciences?",
         optionA: "Marie Curie",
         optionB: "Katherine G. Johnson",
         optionC: "Augusta Ada King",
@@ -154,7 +154,7 @@ const questions = [
     },
 
     {
-        question: "In which year did Mary Elliott Hill gain her degree ?",
+        question: "In which year did Mary Elliott Hill gain her degree?",
         optionA: "2021",
         optionB: "1932",
         optionC: "1929",
