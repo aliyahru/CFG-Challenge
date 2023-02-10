@@ -113,7 +113,7 @@ const questions = [
         optionA: "Melinda French Gates ",
         optionB: "Ada Lovelace",
         optionC: "Mariah Carey",
-        optionD: "Naiomi Campbell",
+        optionD: "Naomi Campbell",
         correctOption: "optionB"
     },
 
@@ -128,7 +128,7 @@ const questions = [
 
     {
         question: "Which two female mathematicians were colleagues of Katherine G. Johnson?",
-        optionA: "Dortohy Vaughan & Mary Jackson",
+        optionA: "Dorothy Vaughan & Mary Jackson",
         optionB: "Mary Jackson & Mae C. Johnson",
         optionC: "Dorothy Vaughan & Rebecca Cole",
         optionD: "Mae C. Johnson & Rebecca Cole",
@@ -176,7 +176,7 @@ const questions = [
         optionA: "Marie Curie",
         optionB: "Ada Lovelace",
         optionC: "Katherine G. Johnson",
-        optionD: "Hillary Clinton",
+        optionD: "Hilary Clinton",
         correctOption: "optionA"
     },
 
@@ -191,7 +191,7 @@ const questions = [
 
     {
         question: "Who from a young age developed interests in anthropology, archaeology, evolution, and astronomy?",
-        optionA: "Jenifer Lopez",
+        optionA: "Jennifer Lopez",
         optionB: "Mae C. Jemison",
         optionC: "Mary Elliot Hill",
         optionD: "None of these women",
