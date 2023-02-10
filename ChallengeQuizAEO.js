@@ -164,10 +164,10 @@ const questions = [
 
     {
         question: "What is one reason we should support, encourage and celebrate women and girls in science and technology?",
-        optionA: "So that women can surpass men and boys in STEM studies and careers",
-        optionB: "So that women and men can compete in who is the better gender in STEM careers",
+        optionA: "So women can surpass men and boys in STEM careers",
+        optionB: "So that women and men can compete about who is the best gender",
         optionC: "There is no reason",
-        optionD: "To give women and girls the same opportunities as boys and men to persue STEM education opportunities or careers",
+        optionD: "To give women and girls the same opportunities as boys and men in STEM",
         correctOption: "optionD"
     },
 
@@ -218,9 +218,9 @@ const questions = [
 
     {
         question: "Underrepresentation of women’s contribution to research and development means...?",
-        optionA: "Their needs and perspectives are unlikely to be overlooked in the design of products that impact our daily lives",
-        optionB: "Women will always be picked first for jobs in STEM",
-        optionC: "Their needs and perspectives are likely to be overlooked in the design of products that impact our daily lives",
+        optionA: "Women's needs and perspectives are unlikely to be overlooked in design",
+        optionB: "Women will be picked first for jobs in STEM",
+        optionC: "Women's needs and perspectives are likely to be overlooked in design",
         optionD: "Nothing",
         correctOption: "optionC"
     }
